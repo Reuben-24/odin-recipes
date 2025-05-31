@@ -1,0 +1,23 @@
+body {
+    background-color: turquoise;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+h1, h2 {
+    text-align: center;
+}
+
+h1 {
+    font-size: 48px;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+
+.figure, .description, .ingredients, .steps {
+    width: 600px;
+    padding: 10px;
+    margin:auto;
+}
+
+img {
+    width: 100%;
+}
